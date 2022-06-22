@@ -7,7 +7,7 @@ from btc import *
 
 
 
-TOKEN = "OTczNzA2NTExNTg5MjAzOTc4.GzuT3D.Dtz3w8B5RcGzClfxbrRNjSo_eqdEnpsEAuxDZI"
+TOKEN = "token goes here"
 
 client = discord.Client()
 
